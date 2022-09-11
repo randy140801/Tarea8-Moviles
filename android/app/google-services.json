@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883428163970",
+    "project_id": "guerra-95b6d",
+    "storage_bucket": "guerra-95b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883428163970:android:9c4af61b61e509acbb4f9b",
+        "android_client_info": {
+          "package_name": "com.randy.guerra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883428163970-b06qngkit7lp9dpjhh02o5hve6h26ic7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9sX4R9ZNcv9OETF8vjZ6anu5ecbl8Lb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883428163970-b06qngkit7lp9dpjhh02o5hve6h26ic7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
